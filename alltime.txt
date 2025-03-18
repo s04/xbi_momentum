@@ -1,0 +1,16 @@
+
+=== Performance Comparison ===
+Metric               Daily Rebalancing    Weekly Rebalancing  
+------------------------------------------------------------
+Total Return         7,899.28% 4,064.06%
+Annualized Return    53.66% 44.17%
+Max Drawdown         -55.11% -57.23%
+Sharpe Ratio         2.11 0.61
+Transaction Costs    $4,075,127.50 $1,945,145.65
+Final Value          $799,928,433.56 $416,406,485.46
+# of Rebalances      2537 510
+Plot saved to data/results/momentum_portfolio_value_20250318.png
+2025-03-18 02:13:16.491 python3[12535:31670942] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-18 02:13:16.491 python3[12535:31670942] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+Results saved to data/results/momentum_backtest_results_20250318.csv
